@@ -1,0 +1,35 @@
+_repo: The-Machine-That-Saved-The-World_26174
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: What if the inhabitants of Earth received a message from the future warning
+  of an upcoming calamity that could wipe out the entire planet? That's the plot that
+  propels "The Machine that Saved the World" by prolific SF luminary Murray Leinster.
+  When the denizens of the future propose a solution, however, one man harbors suspicions.
+  Is he merely paranoid, or are his misgivings well founded?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, American'
+- !lcc 'PS'
+title: The Machine That Saved The World
+url: http://www.gutenberg.org/ebooks/26174
